@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elias Fleckenstein</h1>
-<h3 align="center">15 years old coder from germany</h3>
+<h3 align="center">15 year old coder from germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliasfleckenstein03&label=Profile%20views&color=0e75b6&style=flat" alt="eliasfleckenstein03" /> </p>
 
