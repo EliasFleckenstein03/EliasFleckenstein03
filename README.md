@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Fleckenstein#9632 on Discord, Fleckenstein on libera.chat or ingame, eliasfleckenstein@web.de**
 
-- ⚡ Fun fact **I use Arch btw**
+- ⚡ Fun fact **I use Plan 9 btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
