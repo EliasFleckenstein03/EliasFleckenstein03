@@ -10,4 +10,4 @@ I use Plan 9 (9front) and GNU/Linux (kubuntu), and I have contributed patches to
 
 I made a programming language called [uwulang](https://github.com/EliasFleckenstein03/uwu-lang) and plan on making more languages in the future. 
 
-My projects are sorted and explained on [my website](https://fleckenstein.elidragon.com/). Despite making use of GitHub's organizations feature, my GitHub repository page is somewhat chaotic due to the big number of repositories. Therefore, if you want to find out about my work, it is recommended check out my website.
+My projects are sorted and explained on [my website](https://fleckenstein.elidragon.tk/). Despite making use of GitHub's organizations feature, my GitHub repository page is somewhat chaotic due to the big number of repositories. Therefore, if you want to find out about my work, it is recommended check out my website.
